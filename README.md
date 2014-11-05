@@ -1,7 +1,7 @@
 TowerOfHanioProject
 ===================
 
-Every one knows the tower of hanoi and this is a implimentation of that using java
+Every one knows the tower of hanoi and this is a implementation of that using java
 
 This project has three project's all based on the tower of hanoi.
 
@@ -14,3 +14,4 @@ where to place the disk, if the move is leagal then it moves it and the game end
 
 And the third is HanoiHintGame.java which is also the same as the second but if the user is struck and does't know what
 to do next then he can ask the computer to help him by giving the next move by pressing 0.
+
